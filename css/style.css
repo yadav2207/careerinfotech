@@ -1,7 +1,97 @@
-h2{
+.main{
     background-color: violet;
-    text-align: center;
+       height: 1000px;
+    width: 900px;
+    float: left;
+    margin-left: 600px;
+    margin-top: 50px;
+    float: left;
+    
+ 
 }
 body{
     background-color: blue;
+}
+.header{
+height: 250px;
+width: 900px;
+background-color: aqua;
+float: left;
+border: double;
+
+}
+.logo{
+height: 250px;
+width: 300px;
+background-color: darkgray;
+float: left;
+}
+.dance{
+    height: 250px;
+    width: 300px;
+    
+}
+
+.social{
+height: 250px;
+width: 600px;
+background-color: darkmagenta;
+float: left;
+
+}
+.text{
+    height: 80px;
+    width: 600px;
+    background-color: darkturquoise;
+    float: left;
+    font-size: 60px;
+   
+}
+.menu{
+height: 60px;
+width: 600px;
+float: left;
+background-color: dodgerblue;
+border: dotted;
+}
+.menu ul li{
+float: left;
+display: block;
+height:30px ;
+width: 160px;
+border: double;
+font-size: 30px;
+text-align: center;
+text-decoration: overline;
+margin-bottom: 5px;
+margin-right: 5px0;
+margin-left: 5px;
+margin-top:0px;
+
+}
+.media{
+height:90px ;
+width: 600px;
+float: left;
+}
+.text2{
+height:20px;
+width:600px ;background-color: aqua;
+text-align: center;
+text-decoration: underline;
+}
+
+.container{
+height: 650px;
+width: 900px;
+background-color: chartreuse;
+float: left;
+border: double;
+}
+.footer{
+    height: 100px;
+    width: 900px;
+    background-color: cadetblue;
+    float: left;
+border: double;
 }
