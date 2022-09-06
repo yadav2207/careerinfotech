@@ -10,7 +10,7 @@
  
 }
 body{
-    background-color: blue;
+    background-color: blueviolet;
 }
 .header{
 height: 250px;
@@ -45,8 +45,9 @@ float: left;
     background-color: darkturquoise;
     float: left;
     font-size: 60px;
-   
-}
+    background-color: blue;  
+    
+      }
 .menu{
 height: 60px;
 width: 600px;
@@ -79,6 +80,8 @@ height:20px;
 width:600px ;background-color: aqua;
 text-align: center;
 text-decoration: underline;
+font-size: 20px;
+font-style: italic;
 }
 
 .container{
