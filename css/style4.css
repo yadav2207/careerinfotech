@@ -6,9 +6,20 @@ body{
     background-size: cover;
     background-position: center;
     
-    font-family: sans-serif;
-       
+    font-family: sans-serif;       
       }
+   .ritu{
+    background-color: blue;
+   text-align: center;
+   height: 50px;
+   font-weight: bold;
+   align-items: center;
+   font-size: 50px;
+   border: double;
+   font-style: italic;
+
+
+      }   
 .menu-bar{
  background: rgba(0,100,0);
  text-align: center; 
