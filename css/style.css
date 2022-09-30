@@ -45,7 +45,7 @@ float: left;
     background-color: darkturquoise;
     float: left;
     font-size: 60px;
-    background-color: blue;  
+   color: darkmagenta;
     
       }
 .menu{
@@ -70,6 +70,10 @@ margin-left: 5px;
 margin-top:0px;
 
 }
+.menu ul li:hover{
+    background-color: azure;   
+    
+    }
 .media{
 height:90px ;
 width: 600px;

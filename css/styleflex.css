@@ -1,0 +1,39 @@
+.fcontainer{
+    height:50%;
+     border:red 5px solid;
+    text-transform: capitalize;
+   display:inline-flex;
+   flex-direction:column;
+   flex-wrap: wrap;
+}
+.item1{
+    background-color: violet;
+    height: 90px;
+    width: 350px;
+}
+.item2{
+    background-color: indigo;
+    height: 90px;
+    width: 300px;}
+.item3{
+    background-color: blue;
+    height: 90px;
+    width: 350px;}
+    .item4{
+    background-color: green;
+    height: 90px;
+    width: 300px;}    
+.item5{
+    background-color: yellow;
+    height: 90px;
+    width: 310px;    }
+
+    .item6{
+        background-color: orange;
+        height: 90px;
+        width: 300px;      }
+    .item7{
+      background-color: red;
+      height: 90px;
+      width: 300px;           }
+    

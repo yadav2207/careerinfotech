@@ -4,12 +4,13 @@
 body{
     background-image: url(../images/career.jpg);
     background-size: cover;
-    background-position: center;
-    
-    font-family: sans-serif;       
+    background-position: center;    
+    font-family: sans-serif;  
+         
       }
+      
    .ritu{
-    background-color: blue;
+    background-color: #2bab0d;
    text-align: center;
    height: 50px;
    font-weight: bold;
@@ -23,7 +24,6 @@ body{
 .menu-bar{
  background: rgba(0,100,0);
  text-align: center; 
-
    
 }
 .menu-bar ul{
@@ -87,4 +87,3 @@ color: #fff;
    margin-left: 140px;
     background-color: rgba(0,100,0);
 }
-

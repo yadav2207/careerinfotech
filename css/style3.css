@@ -32,6 +32,7 @@ nav .menu{
   justify-content: space-around;
   font-weight: bold;
   }
+ 
 nav .menu a{
 width: 25%;
 text-decoration: none;
@@ -85,18 +86,19 @@ section a{
 section .btnone{
  background-color: #fff;
  color: #000;
+ transition: 00.6s;
 }
 .btnone:hover{
-  background-color: blue;
+  background-color: #00b894;
 color: white;
 }
 
 section .btntwo{
-  background-color: #00b894;
-color: white;
+  background-color:#00b894;
+color: #000;
 }
 .btntwo:hover{
-  background-color: #fff;
+  background-color:#fff ;
  color: #000;
 }
 .change_content:after{
