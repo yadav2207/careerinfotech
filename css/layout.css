@@ -1,0 +1,40 @@
+.container{
+    background-color: pink;
+height: 100vh;
+display: flex;
+flex-direction: column;
+border: double;
+flex-wrap: wrap;
+}
+header{
+    background-color: purple;
+    height: 20vh;
+   }
+main{
+    background-color: #00b894;
+    height: 60vh;
+    display: flex;
+    }
+   nav{
+    background-color: coral;
+   flex-basis: 25%;
+   flex-shrink: 2;
+   border: dotted;
+   }
+   article{
+    background-color: yellowgreen;
+    flex-basis: 50%;
+    flex-shrink: 4;
+    border: dotted;
+       }
+       aside{
+        background-color: rgb(26, 223, 69);
+        flex-shrink: 2;
+        flex-basis: 25%;
+        border: dotted;
+       }
+footer{
+    background-color: rgb(39, 143, 235);
+    height: 20vh;
+}
+
