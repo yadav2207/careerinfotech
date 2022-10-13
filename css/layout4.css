@@ -1,0 +1,107 @@
+.project{
+    background-color: royalblue;
+    height: 100vw;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: bold;
+}
+header{
+    height: 200px;
+    width: 100%;
+    background-color: azure;
+    display: flex; 
+  
+}
+.nav{
+    width:100% ;
+    height: 200px;
+    background-color: royalblue;
+}
+.logo{
+    background-color: rgb(16, 232, 160);
+    width: 500px;
+}
+.ritu{
+    background-color: aqua;
+    height: 700px;
+    width: 100%;
+}
+.box{
+    background-color: bisque;
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+.box-one{
+    height: 500px;
+    width: 450px;
+    background-color: mediumvioletred;
+    margin: 20px;
+    padding: 5px;
+    margin-left: 20px;
+    margin-left: 200px;
+    margin-top: 45px;
+}
+.box-two{
+    height: 500px;
+    width: 450px;
+    background-color: chartreuse;
+    margin-left: 200px;
+    margin-top: 45px;
+}
+.box-three{
+    height: 500px;
+    width: 450px;
+    background-color:crimson;
+margin-left:300px;
+    margin-top: 45px;
+
+}
+.about{
+    height:400px;
+    width: 100%;
+    background-color: darkmagenta;
+}
+.mentor{
+    height: 800px;
+    width: 100%;
+   background-color: lightblue;
+    display: flex;
+
+}
+.box-four{
+    height: 700px;
+    width: 550px;
+    background-color: mediumspringgreen;
+    margin-top: 30px;
+    margin: 40px;
+    margin-left: 200px;
+}
+.box-five{
+    height: 700px;
+    width: 550px;
+    background-color: darkmagenta;
+    margin-top: 30px;
+    margin: 40px;
+
+}
+.box-six{
+    height: 700px;
+    width: 550px;
+    background-color: salmon;
+    margin-top: 30px;
+    margin: 40px;
+}
+.contact{
+    height: 300px;
+    width: 100%;
+    background-color: blueviolet;
+}
+footer{
+    height: 200px;
+    background-color: orange;
+}

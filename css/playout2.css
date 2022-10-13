@@ -1,0 +1,41 @@
+body{
+    background-image: url(../images/color.webp);
+}
+
+header{
+    height: 700px;
+    width: 700px;
+    border: double;
+    background-color: turquoise;
+    margin: auto;
+    margin-top: 100px;
+    border-style: groove;
+border-width: 10px;}
+.box{
+box-sizing: border-box;
+font-size: 40px;
+margin-left: 40px;}
+.ritu{
+    font-size: 50px;
+    text-align: center;
+}
+.flex{
+    font-size: 30px;
+    background-color: #fff;
+}
+.style{
+font-size:30px ;
+text-align: center;
+background-color: blue;}
+.btn-one{
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+}
+.btn-two{
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+    margin-top: 14px;
+}
